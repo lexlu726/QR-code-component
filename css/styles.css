@@ -1,0 +1,56 @@
+
+body{
+text-align: center;
+background-color: #ffffff;
+}
+
+img{
+  width: 100%;
+  border-radius: 10%;
+}
+
+
+
+
+.attribution {
+  font-size: 11px;
+  margin:0 auto 0;
+
+}
+
+.attribution a {
+  color: #3e52a3; }
+
+.blue-area{
+  background-color:	#d6e2f0;
+  width: 90rem;
+  margin: 100px auto 100px;
+
+
+
+
+}
+
+.content{
+  font-size: 15px;
+  font-family: 'Outfit', sans-serif;
+  color: 	#7b879d;
+
+}
+
+.heading{
+  font-family: 'Outfit', sans-serif;
+}
+
+
+.white-area{
+  background-color:	#ffffff;
+  display: inline-block;
+  margin: 100px auto 100px;
+  width: 14.375rem;
+  padding:0.625rem;
+  border-radius: 10%;
+
+
+
+}
